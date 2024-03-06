@@ -1,0 +1,1960 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v3.10.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.5170292854309082,
+        0.4393998980522156,
+        0.6266999840736389
+      ],
+      "min": [
+        -0.6575561761856079,
+        0.2054687738418579,
+        -0.9434293508529663
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1001,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1001,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 5520,
+      "bufferView": 1,
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 32032,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32032,
+      "byteLength": 11040,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 2,
+      "sampler": 0
+    },
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "sampler": 0
+    },
+    {
+      "source": 10,
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "sampler": 0
+    },
+    {
+      "source": 9,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Sheets-fitted_100Bamboo_Normal_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted_100Bamboo_Normal_png.png"
+    },
+    {
+      "name": "Sheets-fitted_100Bamboo_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted_100Bamboo_AO.png"
+    },
+    {
+      "name": "Sheets-fitted_100Bamboo-desat_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted_100Bamboo-desat_Albedo.png"
+    },
+    {
+      "name": "Sheets-fitted_100Bamboo_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted_100Bamboo_Roughness.png"
+    },
+    {
+      "name": "Sheets-fitted-Blend_Normal_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-Blend_Normal_png.png"
+    },
+    {
+      "name": "Sheets-fitted-Blend_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-Blend_AO.png"
+    },
+    {
+      "name": "Sheets-fitted-Blend_Albedo_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-Blend_Albedo_png.png"
+    },
+    {
+      "name": "Sheet-flat-Blend_Metalness-Sheets-fitted-Blend_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet-flat-Blend_Metalness-Sheets-fitted-Blend_Roughness.png"
+    },
+    {
+      "name": "Sheets-fitted-supreme_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-supreme_Normal.png"
+    },
+    {
+      "name": "Sheets-fitted-supreme_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-supreme_AO.png"
+    },
+    {
+      "name": "Sheets-fitted-supreme-desaturated_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-fitted-supreme-desaturated_Albedo.png"
+    }
+  ],
+  "buffers": [
+    {
+      "name": "sheet_fitted.002",
+      "uri": "sheet_fitted.002.bin",
+      "byteLength": 43072
+    }
+  ],
+  "materials": [
+    {
+      "name": "bamboo-fitted",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-whiteSatin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.7742273142184416,
+          0.7667436168621613,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-cream",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8751375823652049,
+          0.7969165429079781,
+          0.6592239918133873,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.39408312608282897,
+          0.39408312608282897,
+          0.39408312608282897,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06381487094867724,
+          0.08690125178766034,
+          0.1061560678127439,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-pumpkin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.18014428915439032,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-golden",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.30212549635885283,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11926401300504741,
+          0.03423020656508195,
+          0.016067700890886875,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0019634162133964697,
+          0.0016869153167892836,
+          0.0019634162133964697,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4313402138074096,
+          0.4647411349738896,
+          0.4647411349738896,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2549158565663851,
+          0.1572807278900734,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2631747163984916,
+          0.29321614913237454,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.6120655998656237,
+          0.6387794556508168,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6320426176206414,
+          0.5924380303208466,
+          0.4534564754857306,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4704402453042184,
+          0.4313402138074096,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11392093340633272,
+          0.12752977781342206,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.37867625092984036,
+          0.2801243652610849,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.017936433339950233,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5417983559501369,
+          0.5604991522043282,
+          0.5604991522043282,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2801243652610849,
+          0.3203815487918104,
+          0.2388279842720483,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5604991522043282,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4819522370506978,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.2271365255051489,
+          0.01991783843878572,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-fitted-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.18698850875884424,
+          0.3392233349353267,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "blend-fitted-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.08021925873621505,
+          0.08464151072542946,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5859729839496614,
+          0.6054842999109072,
+          0.5795466117825252,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8993845130465294,
+          0.8993845130465294,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.013473396940142641,
+          0.007155037004573032,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.001433134589671864,
+          0.001433134589671864,
+          0.001433134589671864,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.36360389792055325,
+          0.348864834082879,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.49361620131107364,
+          0.3297290329675149,
+          0.20471011883667684,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3837746464879752,
+          0.2715774154383751,
+          0.3066347662031576,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.598941789493296,
+          0.5604991522043282,
+          0.5924380303208466,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6940805197968822,
+          0.6455552724449345,
+          0.49361620131107364,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.40982573843632336,
+          0.37867625092984036,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.11392093340633272,
+          0.06772458968542432,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7011695015314021,
+          0.3586539059261989,
+          0.2631747163984916,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10114516420959989,
+          0.016988052089250045,
+          0.020951131914781092,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.267358060183772,
+          0.3157627437363971,
+          0.22331040834112742,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.505432468828216,
+          0.4704402453042184,
+          0.4590798924241601,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.5174013674966733,
+          0.4368127538003594,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.24680041960155044,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-fitted-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.18014428915439032,
+          0.3250369625210763,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "supreme-fitted-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.42590528570714575,
+          0.42590528570714575,
+          0.42590528570714575,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-fitted-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20835965596076741,
+          0.19751643144034023,
+          0.19751643144034023,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-fitted-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8831797376727453,
+          0.8831797376727453,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-fitted-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4368127538003594,
+          0.41514809165590655,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-fitted-pumpkinSpice",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.08021925873621505,
+          0.011126082368383245,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-fitted-goldenGlow",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.3066347662031576,
+          0.0370285141619602,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sheet_fitted.002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    4
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    8
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    11
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    12
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    13
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    14
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    15
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    16
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    17
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    18
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    19
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    20
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    21
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    22
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    23
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    24
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    25
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    26
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    27
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    28
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    29
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    30
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    31
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    32
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    33
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    34
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    35
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    36
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    37
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    38
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    39
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    40
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    41
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    42
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    43
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    44
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    45
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    46
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    47
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    48
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    49
+                  ]
+                },
+                {
+                  "material": 51,
+                  "variants": [
+                    50
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sheet-fitted",
+      "mesh": 0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_variants"
+  ],
+  "extensions": {
+    "KHR_materials_variants": {
+      "variants": [
+        {
+          "name": "fitted-sheet-bamboo:whiteSatin"
+        },
+        {
+          "name": "fitted-sheet-bamboo:cream"
+        },
+        {
+          "name": "fitted-sheet-bamboo:silver"
+        },
+        {
+          "name": "fitted-sheet-bamboo:oxford"
+        },
+        {
+          "name": "fitted-sheet-bamboo:pumpkin"
+        },
+        {
+          "name": "fitted-sheet-bamboo:golden"
+        },
+        {
+          "name": "fitted-sheet-bamboo:cacao"
+        },
+        {
+          "name": "fitted-sheet-bamboo:charcoal"
+        },
+        {
+          "name": "fitted-sheet-bamboo:fog"
+        },
+        {
+          "name": "fitted-sheet-bamboo:hazelnut"
+        },
+        {
+          "name": "fitted-sheet-bamboo:lavender"
+        },
+        {
+          "name": "fitted-sheet-bamboo:lilac"
+        },
+        {
+          "name": "fitted-sheet-bamboo:limoncello"
+        },
+        {
+          "name": "fitted-sheet-bamboo:oatmeal"
+        },
+        {
+          "name": "fitted-sheet-bamboo:oliveStripe"
+        },
+        {
+          "name": "fitted-sheet-bamboo:peach"
+        },
+        {
+          "name": "fitted-sheet-bamboo:pinkClay"
+        },
+        {
+          "name": "fitted-sheet-bamboo:pinstripe"
+        },
+        {
+          "name": "fitted-sheet-bamboo:pistachio"
+        },
+        {
+          "name": "fitted-sheet-bamboo:rosewater"
+        },
+        {
+          "name": "fitted-sheet-bamboo:sage"
+        },
+        {
+          "name": "fitted-sheet-bamboo:terracota"
+        },
+        {
+          "name": "fitted-sheet-bamboo:turmeric"
+        },
+        {
+          "name": "fitted-sheet-bamboo:wildflower"
+        },
+        {
+          "name": "fitted-sheet-blend:oxford"
+        },
+        {
+          "name": "fitted-sheet-blend:silver"
+        },
+        {
+          "name": "fitted-sheet-blend:white"
+        },
+        {
+          "name": "fitted-sheet-blend:cacao"
+        },
+        {
+          "name": "fitted-sheet-blend:charcoal"
+        },
+        {
+          "name": "fitted-sheet-blend:fog"
+        },
+        {
+          "name": "fitted-sheet-blend:hazelnut"
+        },
+        {
+          "name": "fitted-sheet-blend:lavender"
+        },
+        {
+          "name": "fitted-sheet-blend:lilac"
+        },
+        {
+          "name": "fitted-sheet-blend:limoncello"
+        },
+        {
+          "name": "fitted-sheet-blend:oatmeal"
+        },
+        {
+          "name": "fitted-sheet-blend:oliveStripe"
+        },
+        {
+          "name": "fitted-sheet-blend:peach"
+        },
+        {
+          "name": "fitted-sheet-blend:pinkClay"
+        },
+        {
+          "name": "fitted-sheet-blend:pinstripe"
+        },
+        {
+          "name": "fitted-sheet-blend:pistachio"
+        },
+        {
+          "name": "fitted-sheet-blend:rosewater"
+        },
+        {
+          "name": "fitted-sheet-blend:sage"
+        },
+        {
+          "name": "fitted-sheet-blend:terracota"
+        },
+        {
+          "name": "fitted-sheet-blend:turmeric"
+        },
+        {
+          "name": "fitted-sheet-blend:wildflower"
+        },
+        {
+          "name": "fitted-sheet-supreme:silver"
+        },
+        {
+          "name": "fitted-sheet-supreme:oxford"
+        },
+        {
+          "name": "fitted-sheet-supreme:white"
+        },
+        {
+          "name": "fitted-sheet-supreme:gray"
+        },
+        {
+          "name": "fitted-sheet-supreme:pumpkinSpice"
+        },
+        {
+          "name": "fitted-sheet-supreme:goldenGlow"
+        }
+      ]
+    }
+  }
+}

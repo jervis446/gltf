@@ -1,0 +1,3019 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v3.10.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "max": [
+        -0.08139275014400482,
+        0.546595573425293,
+        -0.6336419582366943
+      ],
+      "min": [
+        -0.5881918668746948,
+        0.4195476472377777,
+        -0.9524223804473877
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "max": [
+        0.4290289282798767,
+        0.5459911823272705,
+        -0.6356045603752136
+      ],
+      "min": [
+        -0.0756983757019043,
+        0.4202142655849457,
+        -0.9571206569671631
+      ],
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "bufferView": 1,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "max": [
+        -0.08139276504516602,
+        0.641876220703125,
+        -0.6367439031600952
+      ],
+      "min": [
+        -0.5881918668746948,
+        0.5049295425415039,
+        -0.9500042200088501
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1104,
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "max": [
+        0.4290289282798767,
+        0.6394532322883606,
+        -0.638054609298706
+      ],
+      "min": [
+        -0.0756983757019043,
+        0.5064594745635986,
+        -0.9545767307281494
+      ],
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1104,
+      "bufferView": 4,
+      "byteOffset": 12
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 6096,
+      "bufferView": 5,
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 26496,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 26496,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 0,
+      "byteLength": 26496,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 0,
+      "byteLength": 8832,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 8832,
+      "byteLength": 26496,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 35328,
+      "byteLength": 12192,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 1,
+      "sampler": 0
+    },
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 2,
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "bamboo-cases_AO_png",
+      "mimeType": "image/png",
+      "uri": "textures/bamboo-cases_AO_png.png"
+    },
+    {
+      "name": "pillowcases-100Bamboo-desaturated_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/pillowcases-100Bamboo-desaturated_Albedo.png"
+    },
+    {
+      "name": "pillowcases-100Bamboo_Metallic-pillowcases-100Bamboo_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/pillowcases-100Bamboo_Metallic-pillowcases-100Bamboo_Roughness.png"
+    },
+    {
+      "name": "blend-cases_AO",
+      "mimeType": "image/png",
+      "uri": "textures/blend-cases_AO.png"
+    },
+    {
+      "name": "pillowcases_Blend-desaturated_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/pillowcases_Blend-desaturated_Albedo.png"
+    },
+    {
+      "name": "pillowcases_Blend_Metallic-pillowcases_Blend_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/pillowcases_Blend_Metallic-pillowcases_Blend_Roughness.png"
+    },
+    {
+      "name": "supreme-cases_AO",
+      "mimeType": "image/png",
+      "uri": "textures/supreme-cases_AO.png"
+    },
+    {
+      "name": "supreme-cases-desaturated_Albedo_png",
+      "mimeType": "image/png",
+      "uri": "textures/supreme-cases-desaturated_Albedo_png.png"
+    },
+    {
+      "name": "supreme-cases_Metallic_png-supreme-cases_Roughness_png",
+      "mimeType": "image/png",
+      "uri": "textures/supreme-cases_Metallic_png-supreme-cases_Roughness_png.png"
+    }
+  ],
+  "buffers": [
+    {
+      "name": "pillow01.001",
+      "uri": "pillow01.001.bin",
+      "byteLength": 26496
+    },
+    {
+      "name": "pillow01.005",
+      "uri": "pillow01.005.bin",
+      "byteLength": 26496
+    },
+    {
+      "name": "pillow01.002",
+      "uri": "pillow01.002.bin",
+      "byteLength": 26496
+    },
+    {
+      "name": "pillow01.003",
+      "uri": "pillow01.003.bin",
+      "byteLength": 47520
+    }
+  ],
+  "materials": [
+    {
+      "name": "bamboo-cases",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-whiteSatin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.7742273142184416,
+          0.7667436168621613,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-cream",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8751375823652049,
+          0.7969165429079781,
+          0.6592239918133873,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.39408312608282897,
+          0.39408312608282897,
+          0.39408312608282897,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06381487094867724,
+          0.08690125178766034,
+          0.1061560678127439,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-pumpkin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.18014428915439032,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-golden",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.30212549635885283,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11926401300504741,
+          0.03423020656508195,
+          0.016067700890886875,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0019634162133964697,
+          0.0016869153167892836,
+          0.0019634162133964697,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4313402138074096,
+          0.4647411349738896,
+          0.4647411349738896,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2549158565663851,
+          0.1572807278900734,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2631747163984916,
+          0.29321614913237454,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.6120655998656237,
+          0.6387794556508168,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6320426176206414,
+          0.5924380303208466,
+          0.4534564754857306,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4704402453042184,
+          0.4313402138074096,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11392093340633272,
+          0.12752977781342206,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.37867625092984036,
+          0.2801243652610849,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.017936433339950233,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5417983559501369,
+          0.5604991522043282,
+          0.5604991522043282,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2801243652610849,
+          0.3203815487918104,
+          0.2388279842720483,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5604991522043282,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4819522370506978,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.2271365255051489,
+          0.01991783843878572,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "bamboo-cases-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.18698850875884424,
+          0.3392233349353267,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "blend-cases-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.08021925873621505,
+          0.08464151072542946,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5859729839496614,
+          0.6054842999109072,
+          0.5795466117825252,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8993845130465294,
+          0.8993845130465294,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.013473396940142641,
+          0.007155037004573032,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.001433134589671864,
+          0.001433134589671864,
+          0.001433134589671864,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.36360389792055325,
+          0.348864834082879,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.49361620131107364,
+          0.3297290329675149,
+          0.20471011883667684,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3837746464879752,
+          0.2715774154383751,
+          0.3066347662031576,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.598941789493296,
+          0.5604991522043282,
+          0.5924380303208466,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6940805197968822,
+          0.6455552724449345,
+          0.49361620131107364,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.40982573843632336,
+          0.37867625092984036,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.11392093340633272,
+          0.06772458968542432,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7011695015314021,
+          0.3586539059261989,
+          0.2631747163984916,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10114516420959989,
+          0.016988052089250045,
+          0.020951131914781092,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.267358060183772,
+          0.3157627437363971,
+          0.22331040834112742,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.505432468828216,
+          0.4704402453042184,
+          0.4590798924241601,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.5174013674966733,
+          0.4368127538003594,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.24680041960155044,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "blend-cases-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.18014428915439032,
+          0.3250369625210763,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "name": "supreme-cases-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.42590528570714575,
+          0.42590528570714575,
+          0.42590528570714575,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "supreme-cases-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20835965596076741,
+          0.19751643144034023,
+          0.19751643144034023,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "supreme-cases-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8831797376727453,
+          0.8831797376727453,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "supreme-cases-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4368127538003594,
+          0.41514809165590655,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "supreme-cases-pumpkinSpice",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.08021925873621505,
+          0.011126082368383245,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "supreme-cases-goldenGlow",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.3066347662031576,
+          0.0370285141619602,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "pillow01.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 6
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 9,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    4
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    8
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    11
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    12
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    13
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    14
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    15
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    16
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    17
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    18
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    19
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    20
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    21
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    22
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    23
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    24
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    25
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    26
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    27
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    28
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    29
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    30
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    31
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    32
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    33
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    34
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    35
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    36
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    37
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    38
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    39
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    40
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    41
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    42
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    43
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    44
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    45
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    46
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    47
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    48
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    49
+                  ]
+                },
+                {
+                  "material": 51,
+                  "variants": [
+                    50
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pillow01.005",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2,
+            "NORMAL": 3,
+            "TEXCOORD_0": 6
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 9,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    4
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    8
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    11
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    12
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    13
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    14
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    15
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    16
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    17
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    18
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    19
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    20
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    21
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    22
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    23
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    24
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    25
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    26
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    27
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    28
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    29
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    30
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    31
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    32
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    33
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    34
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    35
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    36
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    37
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    38
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    39
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    40
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    41
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    42
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    43
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    44
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    45
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    46
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    47
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    48
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    49
+                  ]
+                },
+                {
+                  "material": 51,
+                  "variants": [
+                    50
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pillow01.002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 9,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    51
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    52
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    53
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    54
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    55
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    56
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    57
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    58
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    59
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    60
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    61
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    62
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    63
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    64
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    65
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    66
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    67
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    68
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    69
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    70
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    71
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    72
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    73
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    74
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    75
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    76
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    77
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    78
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    79
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    80
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    81
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    82
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    83
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    84
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    85
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    86
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    87
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    88
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    89
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    90
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    91
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    92
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    93
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    94
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    95
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    96
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    97
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    98
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    99
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    100
+                  ]
+                },
+                {
+                  "material": 51,
+                  "variants": [
+                    101
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pillow01.003",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TEXCOORD_0": 6
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 9,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    51
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    52
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    53
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    54
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    55
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    56
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    57
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    58
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    59
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    60
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    61
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    62
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    63
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    64
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    65
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    66
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    67
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    68
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    69
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    70
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    71
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    72
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    73
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    74
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    75
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    76
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    77
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    78
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    79
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    80
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    81
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    82
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    83
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    84
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    85
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    86
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    87
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    88
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    89
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    90
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    91
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    92
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    93
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    94
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    95
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    96
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    97
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    98
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    99
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    100
+                  ]
+                },
+                {
+                  "material": 51,
+                  "variants": [
+                    101
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "pillow01",
+      "mesh": 0
+    },
+    {
+      "name": "pillow02",
+      "mesh": 1
+    },
+    {
+      "name": "pillow03",
+      "mesh": 2
+    },
+    {
+      "name": "pillow04",
+      "mesh": 3
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_variants"
+  ],
+  "extensions": {
+    "KHR_materials_variants": {
+      "variants": [
+        {
+          "name": "pillows-bamboo:whiteSatin"
+        },
+        {
+          "name": "pillows-bamboo:cream"
+        },
+        {
+          "name": "pillows-bamboo:silver"
+        },
+        {
+          "name": "pillows-bamboo:oxford"
+        },
+        {
+          "name": "pillows-bamboo:pumpkin"
+        },
+        {
+          "name": "pillows-bamboo:golden"
+        },
+        {
+          "name": "pillows-bamboo:cacao"
+        },
+        {
+          "name": "pillows-bamboo:charcoal"
+        },
+        {
+          "name": "pillows-bamboo:fog"
+        },
+        {
+          "name": "pillows-bamboo:hazelnut"
+        },
+        {
+          "name": "pillows-bamboo:lavender"
+        },
+        {
+          "name": "pillows-bamboo:lilac"
+        },
+        {
+          "name": "pillows-bamboo:limoncello"
+        },
+        {
+          "name": "pillows-bamboo:oatmeal"
+        },
+        {
+          "name": "pillows-bamboo:oliveStripe"
+        },
+        {
+          "name": "pillows-bamboo:peach"
+        },
+        {
+          "name": "pillows-bamboo:pinkClay"
+        },
+        {
+          "name": "pillows-bamboo:pinstripe"
+        },
+        {
+          "name": "pillows-bamboo:pistachio"
+        },
+        {
+          "name": "pillows-bamboo:rosewater"
+        },
+        {
+          "name": "pillows-bamboo:sage"
+        },
+        {
+          "name": "pillows-bamboo:terracota"
+        },
+        {
+          "name": "pillows-bamboo:turmeric"
+        },
+        {
+          "name": "pillows-bamboo:wildflower"
+        },
+        {
+          "name": "pillows-blend:oxford"
+        },
+        {
+          "name": "pillows-blend:silver"
+        },
+        {
+          "name": "pillows-blend:white"
+        },
+        {
+          "name": "pillows-blend:cacao"
+        },
+        {
+          "name": "pillows-blend:charcoal"
+        },
+        {
+          "name": "pillows-blend:fog"
+        },
+        {
+          "name": "pillows-blend:hazelnut"
+        },
+        {
+          "name": "pillows-blend:lavender"
+        },
+        {
+          "name": "pillows-blend:lilac"
+        },
+        {
+          "name": "pillows-blend:limoncello"
+        },
+        {
+          "name": "pillows-blend:oatmeal"
+        },
+        {
+          "name": "pillows-blend:oliveStripe"
+        },
+        {
+          "name": "pillows-blend:peach"
+        },
+        {
+          "name": "pillows-blend:pinkClay"
+        },
+        {
+          "name": "pillows-blend:pinstripe"
+        },
+        {
+          "name": "pillows-blend:pistachio"
+        },
+        {
+          "name": "pillows-blend:rosewater"
+        },
+        {
+          "name": "pillows-blend:sage"
+        },
+        {
+          "name": "pillows-blend:terracota"
+        },
+        {
+          "name": "pillows-blend:turmeric"
+        },
+        {
+          "name": "pillows-blend:wildflower"
+        },
+        {
+          "name": "pillows-supreme:silver"
+        },
+        {
+          "name": "pillows-supreme:oxford"
+        },
+        {
+          "name": "pillows-supreme:white"
+        },
+        {
+          "name": "pillows-supreme:gray"
+        },
+        {
+          "name": "pillows-supreme:pumpkinSpice"
+        },
+        {
+          "name": "pillows-supreme:goldenGlow"
+        },
+        {
+          "name": "additional-pillows-bamboo:whiteSatin"
+        },
+        {
+          "name": "additional-pillows-bamboo:cream"
+        },
+        {
+          "name": "additional-pillows-bamboo:silver"
+        },
+        {
+          "name": "additional-pillows-bamboo:oxford"
+        },
+        {
+          "name": "additional-pillows-bamboo:pumpkin"
+        },
+        {
+          "name": "additional-pillows-bamboo:golden"
+        },
+        {
+          "name": "additional-pillows-bamboo:cacao"
+        },
+        {
+          "name": "additional-pillows-bamboo:charcoal"
+        },
+        {
+          "name": "additional-pillows-bamboo:fog"
+        },
+        {
+          "name": "additional-pillows-bamboo:hazelnut"
+        },
+        {
+          "name": "additional-pillows-bamboo:lavender"
+        },
+        {
+          "name": "additional-pillows-bamboo:lilac"
+        },
+        {
+          "name": "additional-pillows-bamboo:limoncello"
+        },
+        {
+          "name": "additional-pillows-bamboo:oatmeal"
+        },
+        {
+          "name": "additional-pillows-bamboo:oliveStripe"
+        },
+        {
+          "name": "additional-pillows-bamboo:peach"
+        },
+        {
+          "name": "additional-pillows-bamboo:pinkClay"
+        },
+        {
+          "name": "additional-pillows-bamboo:pinstripe"
+        },
+        {
+          "name": "additional-pillows-bamboo:pistachio"
+        },
+        {
+          "name": "additional-pillows-bamboo:rosewater"
+        },
+        {
+          "name": "additional-pillows-bamboo:sage"
+        },
+        {
+          "name": "additional-pillows-bamboo:terracota"
+        },
+        {
+          "name": "additional-pillows-bamboo:turmeric"
+        },
+        {
+          "name": "additional-pillows-bamboo:wildflower"
+        },
+        {
+          "name": "additional-pillows-blend:oxford"
+        },
+        {
+          "name": "additional-pillows-blend:silver"
+        },
+        {
+          "name": "additional-pillows-blend:white"
+        },
+        {
+          "name": "additional-pillows-blend:cacao"
+        },
+        {
+          "name": "additional-pillows-blend:charcoal"
+        },
+        {
+          "name": "additional-pillows-blend:fog"
+        },
+        {
+          "name": "additional-pillows-blend:hazelnut"
+        },
+        {
+          "name": "additional-pillows-blend:lavender"
+        },
+        {
+          "name": "additional-pillows-blend:lilac"
+        },
+        {
+          "name": "additional-pillows-blend:limoncello"
+        },
+        {
+          "name": "additional-pillows-blend:oatmeal"
+        },
+        {
+          "name": "additional-pillows-blend:oliveStripe"
+        },
+        {
+          "name": "additional-pillows-blend:peach"
+        },
+        {
+          "name": "additional-pillows-blend:pinkClay"
+        },
+        {
+          "name": "additional-pillows-blend:pinstripe"
+        },
+        {
+          "name": "additional-pillows-blend:pistachio"
+        },
+        {
+          "name": "additional-pillows-blend:rosewater"
+        },
+        {
+          "name": "additional-pillows-blend:sage"
+        },
+        {
+          "name": "additional-pillows-blend:terracota"
+        },
+        {
+          "name": "additional-pillows-blend:turmeric"
+        },
+        {
+          "name": "additional-pillows-blend:wildflower"
+        },
+        {
+          "name": "additional-pillows-supreme:silver"
+        },
+        {
+          "name": "additional-pillows-supreme:oxford"
+        },
+        {
+          "name": "additional-pillows-supreme:white"
+        },
+        {
+          "name": "additional-pillows-supreme:gray"
+        },
+        {
+          "name": "additional-pillows-supreme:pumpkinSpice"
+        },
+        {
+          "name": "additional-pillows-supreme:goldenGlow"
+        }
+      ]
+    }
+  }
+}

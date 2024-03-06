@@ -1,0 +1,2771 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v3.10.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1131,
+      "max": [
+        0.7874581813812256,
+        0.252432644367218,
+        0.4631180763244629
+      ],
+      "min": [
+        -0.7830967307090759,
+        -0.24321787059307098,
+        -0.46920695900917053
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1131,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1263,
+      "max": [
+        0.7883749604225159,
+        0.251417338848114,
+        0.4640381336212158
+      ],
+      "min": [
+        -0.7838611006736755,
+        -0.24321787059307098,
+        -0.4661392569541931
+      ],
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1263,
+      "bufferView": 1,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1131,
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1131,
+      "max": [
+        0.7874581813812256,
+        0.252432644367218,
+        0.4631180763244629
+      ],
+      "min": [
+        -0.7830967307090759,
+        -0.24321787059307098,
+        -0.46920695900917053
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1131,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 6384,
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 680,
+      "max": [
+        0.7936335206031799,
+        0.21778090298175812,
+        0.46920686960220337
+      ],
+      "min": [
+        -0.7904862761497498,
+        -0.2512842118740082,
+        -0.46603092551231384
+      ],
+      "bufferView": 5,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 680,
+      "bufferView": 5,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 680,
+      "bufferView": 5,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 3168,
+      "bufferView": 6,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1263,
+      "bufferView": 7,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1263,
+      "max": [
+        0.7883749604225159,
+        0.251417338848114,
+        0.4640381336212158
+      ],
+      "min": [
+        -0.7838611006736755,
+        -0.24321787059307098,
+        -0.4661392569541931
+      ],
+      "bufferView": 8,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1263,
+      "bufferView": 8,
+      "byteOffset": 12
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 7176,
+      "bufferView": 9,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.2489040195941925,
+        0.1582007259130478,
+        0.03770625963807106
+      ],
+      "min": [
+        -0.254220575094223,
+        -0.1526024341583252,
+        -0.036848828196525574
+      ],
+      "bufferView": 10,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 240,
+      "bufferView": 10,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 240,
+      "bufferView": 10,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1008,
+      "bufferView": 11,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 674,
+      "max": [
+        0.23977865278720856,
+        0.15047870576381683,
+        0.08245854079723358
+      ],
+      "min": [
+        -0.24487924575805664,
+        -0.14652740955352783,
+        -0.060881368815898895
+      ],
+      "bufferView": 12,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 674,
+      "bufferView": 12,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 674,
+      "bufferView": 12,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 3696,
+      "bufferView": 13,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 348,
+      "max": [
+        0.24692170321941376,
+        0.1300252228975296,
+        0.10530205070972443
+      ],
+      "min": [
+        -0.24352021515369415,
+        -0.12296859920024872,
+        -0.09636618942022324
+      ],
+      "bufferView": 14,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 348,
+      "bufferView": 14,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 348,
+      "bufferView": 14,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1620,
+      "bufferView": 15,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 578,
+      "max": [
+        0.23795796930789948,
+        0.1268305629491806,
+        0.10828510671854019
+      ],
+      "min": [
+        -0.2351144552230835,
+        -0.12143455445766449,
+        -0.09848907589912415
+      ],
+      "bufferView": 16,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 578,
+      "bufferView": 16,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 578,
+      "bufferView": 16,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 3132,
+      "bufferView": 17,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1430,
+      "max": [
+        0.7044258117675781,
+        0.5111757516860962,
+        0.791716456413269
+      ],
+      "min": [
+        -0.8776264190673828,
+        0.00689968466758728,
+        -0.14068478345870972
+      ],
+      "bufferView": 18,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1430,
+      "bufferView": 18,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1430,
+      "bufferView": 18,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 8106,
+      "bufferView": 19,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.7182695269584656,
+        0.4869292378425598,
+        0.8021335601806641
+      ],
+      "min": [
+        -0.910425066947937,
+        -0.029679134488105774,
+        -0.14011862874031067
+      ],
+      "bufferView": 20,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1216,
+      "bufferView": 20,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1216,
+      "bufferView": 20,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 7104,
+      "bufferView": 21,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1576,
+      "max": [
+        0.7053257822990417,
+        0.5101442337036133,
+        0.7926539182662964
+      ],
+      "min": [
+        -0.8783003091812134,
+        0.006899684201925993,
+        -0.1376253068447113
+      ],
+      "bufferView": 22,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1576,
+      "bufferView": 22,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1576,
+      "bufferView": 22,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 8970,
+      "bufferView": 23,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 137,
+      "max": [
+        -0.08755812048912048,
+        0.6752241253852844,
+        -0.5471620559692383
+      ],
+      "min": [
+        -0.5245931148529053,
+        0.44124817848205566,
+        -0.6775537729263306
+      ],
+      "bufferView": 24,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 137,
+      "bufferView": 24,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 137,
+      "bufferView": 24,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 252,
+      "max": [
+        -0.05210953950881958,
+        0.7027501463890076,
+        -0.5111759901046753
+      ],
+      "min": [
+        -0.5596997737884521,
+        0.43876010179519653,
+        -0.6570256352424622
+      ],
+      "bufferView": 25,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 252,
+      "bufferView": 25,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 252,
+      "bufferView": 25,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 145,
+      "max": [
+        -0.08755721151828766,
+        0.6770662665367126,
+        -0.5138527750968933
+      ],
+      "min": [
+        -0.5245931148529053,
+        0.44294917583465576,
+        -0.6428670883178711
+      ],
+      "bufferView": 26,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 145,
+      "bufferView": 26,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 145,
+      "bufferView": 26,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 137,
+      "max": [
+        0.4228045344352722,
+        0.6752241253852844,
+        -0.5471620559692383
+      ],
+      "min": [
+        -0.014230430126190186,
+        0.44124817848205566,
+        -0.6775537729263306
+      ],
+      "bufferView": 27,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 137,
+      "bufferView": 27,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 137,
+      "bufferView": 27,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 702,
+      "bufferView": 28,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 252,
+      "max": [
+        0.4582531452178955,
+        0.7027501463890076,
+        -0.5111759901046753
+      ],
+      "min": [
+        -0.04933711886405945,
+        0.43876010179519653,
+        -0.6570256352424622
+      ],
+      "bufferView": 29,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 252,
+      "bufferView": 29,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 252,
+      "bufferView": 29,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1140,
+      "bufferView": 30,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 145,
+      "max": [
+        0.42280545830726624,
+        0.6770662665367126,
+        -0.5138527154922485
+      ],
+      "min": [
+        -0.014230430126190186,
+        0.44294920563697815,
+        -0.6428670287132263
+      ],
+      "bufferView": 31,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 145,
+      "bufferView": 31,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 145,
+      "bufferView": 31,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 750,
+      "bufferView": 32,
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 27144,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 30312,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 0,
+      "byteLength": 9048,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 9048,
+      "byteLength": 27144,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 36192,
+      "byteLength": 12768,
+      "target": 34963
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 0,
+      "byteLength": 21760,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 21760,
+      "byteLength": 6336,
+      "target": 34963
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 0,
+      "byteLength": 10104,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 10104,
+      "byteLength": 30312,
+      "byteStride": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 40416,
+      "byteLength": 14352,
+      "target": 34963
+    },
+    {
+      "buffer": 5,
+      "byteOffset": 0,
+      "byteLength": 7680,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 5,
+      "byteOffset": 7680,
+      "byteLength": 2016,
+      "target": 34963
+    },
+    {
+      "buffer": 6,
+      "byteOffset": 0,
+      "byteLength": 21568,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 6,
+      "byteOffset": 21568,
+      "byteLength": 7392,
+      "target": 34963
+    },
+    {
+      "buffer": 7,
+      "byteOffset": 0,
+      "byteLength": 11136,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 7,
+      "byteOffset": 11136,
+      "byteLength": 3240,
+      "target": 34963
+    },
+    {
+      "buffer": 8,
+      "byteOffset": 0,
+      "byteLength": 18496,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 8,
+      "byteOffset": 18496,
+      "byteLength": 6264,
+      "target": 34963
+    },
+    {
+      "buffer": 9,
+      "byteOffset": 0,
+      "byteLength": 45760,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 9,
+      "byteOffset": 45760,
+      "byteLength": 16212,
+      "target": 34963
+    },
+    {
+      "buffer": 10,
+      "byteOffset": 0,
+      "byteLength": 38912,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 10,
+      "byteOffset": 38912,
+      "byteLength": 14208,
+      "target": 34963
+    },
+    {
+      "buffer": 11,
+      "byteOffset": 0,
+      "byteLength": 50432,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 11,
+      "byteOffset": 50432,
+      "byteLength": 17940,
+      "target": 34963
+    },
+    {
+      "buffer": 12,
+      "byteOffset": 0,
+      "byteLength": 4384,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 13,
+      "byteOffset": 0,
+      "byteLength": 8064,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 14,
+      "byteOffset": 0,
+      "byteLength": 4640,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 15,
+      "byteOffset": 0,
+      "byteLength": 4384,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 15,
+      "byteOffset": 4384,
+      "byteLength": 1404,
+      "target": 34963
+    },
+    {
+      "buffer": 16,
+      "byteOffset": 0,
+      "byteLength": 8064,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 16,
+      "byteOffset": 8064,
+      "byteLength": 2280,
+      "target": 34963
+    },
+    {
+      "buffer": 17,
+      "byteOffset": 0,
+      "byteLength": 4640,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 17,
+      "byteOffset": 4640,
+      "byteLength": 1500,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 2,
+      "sampler": 0
+    },
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "sampler": 0
+    },
+    {
+      "source": 10,
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "sampler": 0
+    },
+    {
+      "source": 9,
+      "sampler": 0
+    },
+    {
+      "source": 13,
+      "sampler": 0
+    },
+    {
+      "source": 11,
+      "sampler": 0
+    },
+    {
+      "source": 12,
+      "sampler": 0
+    },
+    {
+      "source": 14,
+      "sampler": 0
+    },
+    {
+      "source": 15,
+      "sampler": 0
+    },
+    {
+      "source": 16,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "quilt-bliss-static_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/quilt-bliss-static_Normal.png"
+    },
+    {
+      "name": "bliss-static_ambient_occlusion",
+      "mimeType": "image/png",
+      "uri": "textures/bliss-static_ambient_occlusion.png"
+    },
+    {
+      "name": "quilt-bliss-static_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/quilt-bliss-static_Albedo.png"
+    },
+    {
+      "name": "Quilt-Bliss_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Quilt-Bliss_Normal.png"
+    },
+    {
+      "name": "bliss_reversible_ambient_occlusion",
+      "mimeType": "image/png",
+      "uri": "textures/bliss_reversible_ambient_occlusion.png"
+    },
+    {
+      "name": "Quilt-Bliss_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Quilt-Bliss_Albedo.png"
+    },
+    {
+      "name": "reversible_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/reversible_Normal.png"
+    },
+    {
+      "name": "reversible_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/reversible_Albedo.png"
+    },
+    {
+      "name": "Quilt_Striped_Static_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Quilt_Striped_Static_Normal.png"
+    },
+    {
+      "name": "Quilt-Stripes-static_ambient_occlusion",
+      "mimeType": "image/png",
+      "uri": "textures/Quilt-Stripes-static_ambient_occlusion.png"
+    },
+    {
+      "name": "Quilt_Striped_Static_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Quilt_Striped_Static_Albedo.png"
+    },
+    {
+      "name": "Stripes_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Stripes_Normal.png"
+    },
+    {
+      "name": "stripes_new_ambient_occlusion",
+      "mimeType": "image/png",
+      "uri": "textures/stripes_new_ambient_occlusion.png"
+    },
+    {
+      "name": "beigeStripes_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/beigeStripes_Albedo.png"
+    },
+    {
+      "name": "grayStripes",
+      "mimeType": "image/png",
+      "uri": "textures/grayStripes.png"
+    },
+    {
+      "name": "blueStripes_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/blueStripes_Albedo.png"
+    },
+    {
+      "name": "grayStripes_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/grayStripes_Albedo.png"
+    }
+  ],
+  "buffers": [
+    {
+      "name": "quilt-bliss-back",
+      "uri": "quilt-bliss-back.bin",
+      "byteLength": 27144
+    },
+    {
+      "name": "quilt-bliss",
+      "uri": "quilt-bliss.bin",
+      "byteLength": 30312
+    },
+    {
+      "name": "quilt-bliss-back.001",
+      "uri": "quilt-bliss-back.001.bin",
+      "byteLength": 48960
+    },
+    {
+      "name": "quilt-bliss-trim.001",
+      "uri": "quilt-bliss-trim.001.bin",
+      "byteLength": 28096
+    },
+    {
+      "name": "quilt-bliss.001",
+      "uri": "quilt-bliss.001.bin",
+      "byteLength": 54768
+    },
+    {
+      "name": "quilt-bliss-pillowcase01-trim.001",
+      "uri": "quilt-bliss-pillowcase01-trim.001.bin",
+      "byteLength": 9696
+    },
+    {
+      "name": "quilt-bliss-pillowcase01.001",
+      "uri": "quilt-bliss-pillowcase01.001.bin",
+      "byteLength": 28960
+    },
+    {
+      "name": "quilt-bliss-pillowcase02-trim.001",
+      "uri": "quilt-bliss-pillowcase02-trim.001.bin",
+      "byteLength": 14376
+    },
+    {
+      "name": "quilt-bliss-pillowcase02.001",
+      "uri": "quilt-bliss-pillowcase02.001.bin",
+      "byteLength": 24760
+    },
+    {
+      "name": "quilt-stripes-back",
+      "uri": "quilt-stripes-back.bin",
+      "byteLength": 61972
+    },
+    {
+      "name": "quilt-stripes-trim",
+      "uri": "quilt-stripes-trim.bin",
+      "byteLength": 53120
+    },
+    {
+      "name": "quilt-stripes",
+      "uri": "quilt-stripes.bin",
+      "byteLength": 68372
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-static",
+      "uri": "quilt-stripes-pillowcase01-static.bin",
+      "byteLength": 4384
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-trim",
+      "uri": "quilt-stripes-pillowcase01-trim.bin",
+      "byteLength": 8064
+    },
+    {
+      "name": "quilt-stripes-pillowcase01",
+      "uri": "quilt-stripes-pillowcase01.bin",
+      "byteLength": 4640
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-static",
+      "uri": "quilt-stripes-pillowcase02-static.bin",
+      "byteLength": 5788
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-trim",
+      "uri": "quilt-stripes-pillowcase02-trim.bin",
+      "byteLength": 10344
+    },
+    {
+      "name": "quilt-stripes-pillowcase02",
+      "uri": "quilt-stripes-pillowcase02.bin",
+      "byteLength": 6140
+    }
+  ],
+  "materials": [
+    {
+      "name": "quilt-bliss-static",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-bliss",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-reversible-back",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-reverse-trim",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-stripes-static",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.8999999761581421,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "quilt-stripes-beige-trim",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.8999999761581421,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 13
+      }
+    },
+    {
+      "name": "quilt-stripes-static-cases",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 14
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "quilt-stripes-blue",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.8999999761581421,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 15
+        }
+      },
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 13
+      }
+    },
+    {
+      "name": "quilt-stripes-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.8999999761581421,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 16
+        }
+      },
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 13
+      }
+    },
+    {
+      "name": "quilt-bliss-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7893137424155858,
+          0.7893137424155858,
+          0.7893137424155858,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-bliss-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17677432164090326,
+          0.17677432164090326,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-bliss-black",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-bliss-goldWhite",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4045408225679618,
+          0.3586539059261989,
+          0.2388279842720483,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-bliss-static-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7893137424155858,
+          0.7893137424155858,
+          0.7893137424155858,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-bliss-static-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17677432164090326,
+          0.17677432164090326,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-bliss-static-black",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-reversible-front-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7893137424155858,
+          0.7893137424155858,
+          0.7893137424155858,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-reversible-front-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17677432164090326,
+          0.17677432164090326,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-reversible-front-black",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 5
+      }
+    },
+    {
+      "name": "quilt-reversible-back-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7893137424155858,
+          0.7893137424155858,
+          0.7893137424155858,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-reversible-back-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17677432164090326,
+          0.17677432164090326,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "quilt-reversible-back-black",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0.000005077051900661759
+        ],
+        "roughnessFactor": 0.949999988079071,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "quilt-bliss-back",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 4
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 7,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 13,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 11,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2,
+            "NORMAL": 3,
+            "TEXCOORD_0": 12
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 15,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase01-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 19,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 23,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase02-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25,
+            "TEXCOORD_0": 26
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 27,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29,
+            "TEXCOORD_0": 30
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 31,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 9,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-back.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 4
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 7,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 19,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-trim.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 11,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 12
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 15,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase01-trim.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 19,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase01.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 23,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase02-trim.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25,
+            "TEXCOORD_0": 26
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 27,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase02.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29,
+            "TEXCOORD_0": 30
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 31,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 16,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    8
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-back",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 32,
+            "NORMAL": 33,
+            "TEXCOORD_0": 34
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 35
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37,
+            "TEXCOORD_0": 38
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 39,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 40,
+            "NORMAL": 41,
+            "TEXCOORD_0": 42
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 43,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-static",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 44,
+            "NORMAL": 45,
+            "TEXCOORD_0": 46
+          },
+          "mode": 4,
+          "material": 6,
+          "indices": 56
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 47,
+            "NORMAL": 48,
+            "TEXCOORD_0": 49
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 60,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 50,
+            "NORMAL": 51,
+            "TEXCOORD_0": 52
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 64,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-static",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 53,
+            "NORMAL": 54,
+            "TEXCOORD_0": 55
+          },
+          "mode": 4,
+          "material": 6,
+          "indices": 56
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 57,
+            "NORMAL": 58,
+            "TEXCOORD_0": 59
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 60,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 61,
+            "NORMAL": 62,
+            "TEXCOORD_0": 63
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 64,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 7,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    11
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "quilt-bliss-back",
+      "mesh": 0
+    },
+    {
+      "name": "quilt-bliss-trim",
+      "mesh": 1
+    },
+    {
+      "name": "quilt-bliss",
+      "translation": [
+        -0.08309406787157059,
+        0.25989025831222534,
+        0.3285210430622101
+      ],
+      "mesh": 2,
+      "children": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase01-trim",
+      "mesh": 3
+    },
+    {
+      "name": "quilt-bliss-pillowcase01",
+      "translation": [
+        -0.32158175110816956,
+        0.582957923412323,
+        -0.6099429130554199
+      ],
+      "mesh": 4,
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "quilt-bliss-pillowcase02-trim",
+      "mesh": 5
+    },
+    {
+      "name": "quilt-bliss-pillowcase02",
+      "translation": [
+        0.1814040094614029,
+        0.554413378238678,
+        -0.5649163126945496
+      ],
+      "mesh": 6,
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Bliss",
+      "children": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "quilt-reversible-back",
+      "mesh": 7
+    },
+    {
+      "name": "quilt-reversible-trim",
+      "mesh": 8
+    },
+    {
+      "name": "quilt-reversible-front",
+      "translation": [
+        -0.08309406787157059,
+        0.25989025831222534,
+        0.3285210430622101
+      ],
+      "mesh": 9,
+      "children": [
+        8,
+        9
+      ]
+    },
+    {
+      "name": "quilt-reversible-pillowcase01-trim",
+      "mesh": 10
+    },
+    {
+      "name": "quilt-reversible-pillowcase01",
+      "translation": [
+        -0.32158175110816956,
+        0.582957923412323,
+        -0.6099429130554199
+      ],
+      "mesh": 11,
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "quilt-reversible-pillowcase02-trim",
+      "mesh": 12
+    },
+    {
+      "name": "quilt-reversible-pillowcase02",
+      "translation": [
+        0.1814040094614029,
+        0.554413378238678,
+        -0.5649163126945496
+      ],
+      "mesh": 13,
+      "children": [
+        13
+      ]
+    },
+    {
+      "name": "Reversible",
+      "children": [
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "name": "quilt-stripes-back",
+      "mesh": 14
+    },
+    {
+      "name": "quilt-stripes-trim",
+      "mesh": 15
+    },
+    {
+      "name": "quilt-stripes",
+      "mesh": 16,
+      "children": [
+        16,
+        17
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-static",
+      "mesh": 17
+    },
+    {
+      "name": "quilt-stripes-pillowcase01-trim",
+      "mesh": 18
+    },
+    {
+      "name": "quilt-stripes-pillowcase01",
+      "mesh": 19,
+      "children": [
+        19,
+        20
+      ]
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-static",
+      "mesh": 20
+    },
+    {
+      "name": "quilt-stripes-pillowcase02-trim",
+      "mesh": 21
+    },
+    {
+      "name": "quilt-stripes-pillowcase02",
+      "mesh": 22,
+      "children": [
+        22,
+        23
+      ]
+    },
+    {
+      "name": "Stripes",
+      "children": [
+        18,
+        21,
+        24
+      ]
+    },
+    {
+      "name": "Quilts",
+      "children": [
+        7,
+        15,
+        25
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        26
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_variants"
+  ],
+  "extensions": {
+    "KHR_materials_variants": {
+      "variants": [
+        {
+          "name": "quilt-bliss:white"
+        },
+        {
+          "name": "quilt-bliss:gray"
+        },
+        {
+          "name": "quilt-bliss:black"
+        },
+        {
+          "name": "quilt-bliss:goldWhite"
+        },
+        {
+          "name": "quilt-bliss:grayWhite"
+        },
+        {
+          "name": "quilt-reversible:white"
+        },
+        {
+          "name": "quilt-reversible:gray"
+        },
+        {
+          "name": "quilt-reversible:black"
+        },
+        {
+          "name": "quilt-reversible:grayWhite"
+        },
+        {
+          "name": "quilt-stripes-blueWhite"
+        },
+        {
+          "name": "quilt-stripes-grayWhite"
+        },
+        {
+          "name": "quilt-stripes-beigeWhite"
+        }
+      ]
+    }
+  }
+}

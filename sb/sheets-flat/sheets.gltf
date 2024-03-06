@@ -1,0 +1,1906 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v3.10.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 7642,
+      "max": [
+        0.6205059885978699,
+        0.5024930238723755,
+        0.7047751545906067
+      ],
+      "min": [
+        -0.73776775598526,
+        0.030152667313814163,
+        -0.5607935190200806
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 7642,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 7642,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 30912,
+      "bufferView": 1,
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 244544,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 244544,
+      "byteLength": 61824,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 2,
+      "sampler": 0
+    },
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "sampler": 0
+    },
+    {
+      "source": 10,
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "sampler": 0
+    },
+    {
+      "source": 9,
+      "sampler": 0
+    },
+    {
+      "source": 11,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Sheets-flat-100-bamboo_Normal_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-flat-100-bamboo_Normal_png.png"
+    },
+    {
+      "name": "Sheets-flat-100-bamboo_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-flat-100-bamboo_AO.png"
+    },
+    {
+      "name": "Sheets-flat-100-bamboo_Albedo_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-flat-100-bamboo_Albedo_png.png"
+    },
+    {
+      "name": "Sheets-flat_Metalness_png-Sheets-flat-100-bamboo_Roughness_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-flat_Metalness_png-Sheets-flat-100-bamboo_Roughness_png.png"
+    },
+    {
+      "name": "Sheet-flat-Blend_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet-flat-Blend_Normal.png"
+    },
+    {
+      "name": "Sheet_flat-Blend_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet_flat-Blend_AO.png"
+    },
+    {
+      "name": "Sheet-flat-Blend_Albedo_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet-flat-Blend_Albedo_png.png"
+    },
+    {
+      "name": "Sheet-flat-Blend_Metalness-Sheet-flat-Blend_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet-flat-Blend_Metalness-Sheet-flat-Blend_Roughness.png"
+    },
+    {
+      "name": "Sheet_Supreme_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet_Supreme_Normal.png"
+    },
+    {
+      "name": "Sheet_Supreme_AO_png",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet_Supreme_AO_png.png"
+    },
+    {
+      "name": "Sheet_Supreme_Pumpkin_Desaturated_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Sheet_Supreme_Pumpkin_Desaturated_Albedo.png"
+    },
+    {
+      "name": "Sheets-flat_Metalness_png-Sheet_Supreme_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Sheets-flat_Metalness_png-Sheet_Supreme_Roughness.png"
+    }
+  ],
+  "buffers": [
+    {
+      "name": "sheet_flat.003",
+      "uri": "sheet_flat.003.bin",
+      "byteLength": 306368
+    }
+  ],
+  "materials": [
+    {
+      "name": "bamboo-flat",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-whiteSatin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.7742273142184416,
+          0.7667436168621613,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-cream",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8751375823652049,
+          0.7969165429079781,
+          0.6592239918133873,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.39408312608282897,
+          0.39408312608282897,
+          0.39408312608282897,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06381487094867724,
+          0.08690125178766034,
+          0.1061560678127439,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-pumpkin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.18014428915439032,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-golden",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.30212549635885283,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11926401300504741,
+          0.03423020656508195,
+          0.016067700890886875,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0019634162133964697,
+          0.0016869153167892836,
+          0.0019634162133964697,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2549158565663851,
+          0.1572807278900734,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2631747163984916,
+          0.29321614913237454,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.6120655998656237,
+          0.6387794556508168,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6320426176206414,
+          0.5924380303208466,
+          0.4534564754857306,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4704402453042184,
+          0.4313402138074096,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11392093340633272,
+          0.12752977781342206,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.37867625092984036,
+          0.2801243652610849,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.017936433339950233,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5417983559501369,
+          0.5604991522043282,
+          0.5604991522043282,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2801243652610849,
+          0.3203815487918104,
+          0.2388279842720483,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5604991522043282,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4819522370506978,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.2271365255051489,
+          0.01991783843878572,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "bamboo-flat-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.18698850875884424,
+          0.3392233349353267,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "blend-flat-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.08021925873621505,
+          0.08464151072542946,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5859729839496614,
+          0.6054842999109072,
+          0.5795466117825252,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8993845130465294,
+          0.8993845130465294,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.013473396940142641,
+          0.007155037004573032,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.001433134589671864,
+          0.001433134589671864,
+          0.001433134589671864,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.36360389792055325,
+          0.348864834082879,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.49361620131107364,
+          0.3297290329675149,
+          0.20471011883667684,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3837746464879752,
+          0.2715774154383751,
+          0.3066347662031576,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.598941789493296,
+          0.5604991522043282,
+          0.5924380303208466,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6940805197968822,
+          0.6455552724449345,
+          0.49361620131107364,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.40982573843632336,
+          0.37867625092984036,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.11392093340633272,
+          0.06772458968542432,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7011695015314021,
+          0.3586539059261989,
+          0.2631747163984916,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10114516420959989,
+          0.016988052089250045,
+          0.020951131914781092,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.267358060183772,
+          0.3157627437363971,
+          0.22331040834112742,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.505432468828216,
+          0.4704402453042184,
+          0.4590798924241601,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.5174013674966733,
+          0.4368127538003594,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.24680041960155044,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "blend-flat-wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.18014428915439032,
+          0.3250369625210763,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "supreme-flat-silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.42590528570714575,
+          0.42590528570714575,
+          0.42590528570714575,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-flat-oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20835965596076741,
+          0.19751643144034023,
+          0.19751643144034023,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-flat-white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8831797376727453,
+          0.8831797376727453,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-flat-gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4368127538003594,
+          0.41514809165590655,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-flat-pumpkinSpice",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.08021925873621505,
+          0.011126082368383245,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    },
+    {
+      "name": "supreme-flat-goldenGlow",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.3066347662031576,
+          0.0370285141619602,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      },
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 10
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sheet_flat.003",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 1,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 2,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 5,
+                  "variants": [
+                    4
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    8
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    11
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    12
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    13
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    14
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    15
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    16
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    17
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    18
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    19
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    20
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    21
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    22
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    23
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    24
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    25
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    26
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    27
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    28
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    29
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    30
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    31
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    32
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    33
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    34
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    35
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    36
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    37
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    38
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    39
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    40
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    41
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    42
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    43
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    44
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    45
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    46
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    47
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    48
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    49
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sheet-flat",
+      "mesh": 0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_variants"
+  ],
+  "extensions": {
+    "KHR_materials_variants": {
+      "variants": [
+        {
+          "name": "flat-sheet-bamboo:whiteSatin"
+        },
+        {
+          "name": "flat-sheet-bamboo:cream"
+        },
+        {
+          "name": "flat-sheet-bamboo:silver"
+        },
+        {
+          "name": "flat-sheet-bamboo:oxford"
+        },
+        {
+          "name": "flat-sheet-bamboo:pumpkin"
+        },
+        {
+          "name": "flat-sheet-bamboo:golden"
+        },
+        {
+          "name": "flat-sheet-bamboo:cacao"
+        },
+        {
+          "name": "flat-sheet-bamboo:charcoal"
+        },
+        {
+          "name": "flat-sheet-bamboo:hazelnut"
+        },
+        {
+          "name": "flat-sheet-bamboo:lavender"
+        },
+        {
+          "name": "flat-sheet-bamboo:lilac"
+        },
+        {
+          "name": "flat-sheet-bamboo:limoncello"
+        },
+        {
+          "name": "flat-sheet-bamboo:oatmeal"
+        },
+        {
+          "name": "flat-sheet-bamboo:oliveStripe"
+        },
+        {
+          "name": "flat-sheet-bamboo:peach"
+        },
+        {
+          "name": "flat-sheet-bamboo:pinkClay"
+        },
+        {
+          "name": "flat-sheet-bamboo:pinstripe"
+        },
+        {
+          "name": "flat-sheet-bamboo:pistachio"
+        },
+        {
+          "name": "flat-sheet-bamboo:rosewater"
+        },
+        {
+          "name": "flat-sheet-bamboo:sage"
+        },
+        {
+          "name": "flat-sheet-bamboo:terracota"
+        },
+        {
+          "name": "flat-sheet-bamboo:turmeric"
+        },
+        {
+          "name": "flat-sheet-bamboo:wildflower"
+        },
+        {
+          "name": "flat-sheet-blend:oxford"
+        },
+        {
+          "name": "flat-sheet-blend:silver"
+        },
+        {
+          "name": "flat-sheet-blend:white"
+        },
+        {
+          "name": "flat-sheet-blend:cacao"
+        },
+        {
+          "name": "flat-sheet-blend:charcoal"
+        },
+        {
+          "name": "flat-sheet-blend:fog"
+        },
+        {
+          "name": "flat-sheet-blend:hazelnut"
+        },
+        {
+          "name": "flat-sheet-blend:lavender"
+        },
+        {
+          "name": "flat-sheet-blend:lilac"
+        },
+        {
+          "name": "flat-sheet-blend:limoncello"
+        },
+        {
+          "name": "flat-sheet-blend:oatmeal"
+        },
+        {
+          "name": "flat-sheet-blend:oliveStripe"
+        },
+        {
+          "name": "flat-sheet-blend:peach"
+        },
+        {
+          "name": "flat-sheet-blend:pinkClay"
+        },
+        {
+          "name": "flat-sheet-blend:pinstripe"
+        },
+        {
+          "name": "flat-sheet-blend:pistachio"
+        },
+        {
+          "name": "flat-sheet-blend:rosewater"
+        },
+        {
+          "name": "flat-sheet-blend:sage"
+        },
+        {
+          "name": "flat-sheet-blend:terracota"
+        },
+        {
+          "name": "flat-sheet-blend:turmeric"
+        },
+        {
+          "name": "flat-sheet-blend:wildflower"
+        },
+        {
+          "name": "flat-sheet-supreme:silver"
+        },
+        {
+          "name": "flat-sheet-supreme:oxford"
+        },
+        {
+          "name": "flat-sheet-supreme:white"
+        },
+        {
+          "name": "flat-sheet-supreme:gray"
+        },
+        {
+          "name": "flat-sheet-supreme:pumpkinSpice"
+        },
+        {
+          "name": "flat-sheet-supreme:goldenGlow"
+        }
+      ]
+    }
+  }
+}

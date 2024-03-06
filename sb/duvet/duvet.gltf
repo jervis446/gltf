@@ -1,0 +1,2342 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v3.10.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 5499,
+      "max": [
+        0.7230759263038635,
+        0.540176510810852,
+        0.8083401918411255
+      ],
+      "min": [
+        -0.8906031250953674,
+        -0.025722146034240723,
+        -0.16505137085914612
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 5499,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 5499,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 28452,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        0.4879363775253296,
+        0.4746193587779999,
+        0.2161022275686264
+      ],
+      "min": [
+        0.47139859199523926,
+        0.46848005056381226,
+        0.20633552968502045
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3132,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 3132,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 6210,
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 4668,
+      "max": [
+        0.7259960770606995,
+        0.5430999398231506,
+        0.8112353682518005
+      ],
+      "min": [
+        -0.8934829235076904,
+        -0.028616636991500854,
+        -0.1679808795452118
+      ],
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 4668,
+      "bufferView": 4,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 4668,
+      "bufferView": 4,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 24912,
+      "bufferView": 5,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 902,
+      "max": [
+        -0.07267773151397705,
+        0.741158664226532,
+        -0.5424157977104187
+      ],
+      "min": [
+        -0.5758023262023926,
+        0.4303554892539978,
+        -0.6772022247314453
+      ],
+      "bufferView": 6,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 902,
+      "bufferView": 6,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 902,
+      "bufferView": 6,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 4704,
+      "bufferView": 7,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 908,
+      "max": [
+        0.42832571268081665,
+        0.7192842960357666,
+        -0.5241981744766235
+      ],
+      "min": [
+        -0.06211620569229126,
+        0.42944639921188354,
+        -0.6914390325546265
+      ],
+      "bufferView": 8,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 908,
+      "bufferView": 8,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 908,
+      "bufferView": 8,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 4752,
+      "bufferView": 9,
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 175968,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 175968,
+      "byteLength": 56904,
+      "target": 34963
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 100224,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 100224,
+      "byteLength": 12420,
+      "target": 34963
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 0,
+      "byteLength": 149376,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 149376,
+      "byteLength": 49824,
+      "target": 34963
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 0,
+      "byteLength": 28864,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 28864,
+      "byteLength": 9408,
+      "target": 34963
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 0,
+      "byteLength": 29056,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 29056,
+      "byteLength": 9504,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 2,
+      "sampler": 0
+    },
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "sampler": 0
+    },
+    {
+      "source": 9,
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "sampler": 0
+    },
+    {
+      "source": 10,
+      "sampler": 0
+    },
+    {
+      "source": 13,
+      "sampler": 0
+    },
+    {
+      "source": 11,
+      "sampler": 0
+    },
+    {
+      "source": 12,
+      "sampler": 0
+    },
+    {
+      "source": 14,
+      "sampler": 0
+    },
+    {
+      "source": 17,
+      "sampler": 0
+    },
+    {
+      "source": 15,
+      "sampler": 0
+    },
+    {
+      "source": 16,
+      "sampler": 0
+    },
+    {
+      "source": 18,
+      "sampler": 0
+    },
+    {
+      "source": 20,
+      "sampler": 0
+    },
+    {
+      "source": 19,
+      "sampler": 0
+    },
+    {
+      "source": 21,
+      "sampler": 0
+    },
+    {
+      "source": 24,
+      "sampler": 0
+    },
+    {
+      "source": 22,
+      "sampler": 0
+    },
+    {
+      "source": 23,
+      "sampler": 0
+    },
+    {
+      "source": 25,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Comforter-Mulberry_dopple_Normal_png",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter-Mulberry_dopple_Normal_png.png"
+    },
+    {
+      "name": "Comforter-Mulberry_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter-Mulberry_AO.png"
+    },
+    {
+      "name": "Comforter-Mulberry_new_Base",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter-Mulberry_new_Base.png"
+    },
+    {
+      "name": "Comforter-Mulberry_Roughness_png",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter-Mulberry_Roughness_png.png"
+    },
+    {
+      "name": "Supreme_Duvet_Pimpkin_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Supreme_Duvet_Pimpkin_Normal.png"
+    },
+    {
+      "name": "Supreme_Duvet_Pimpkin_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Supreme_Duvet_Pimpkin_AO.png"
+    },
+    {
+      "name": "Supreme_Duvet_Pimpkin_new_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Supreme_Duvet_Pimpkin_new_Albedo.png"
+    },
+    {
+      "name": "Supreme_Duvet_Pimpkin_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Supreme_Duvet_Pimpkin_Roughness.png"
+    },
+    {
+      "name": "jacquard-duvet-cases_AO_png",
+      "mimeType": "image/png",
+      "uri": "textures/jacquard-duvet-cases_AO_png.png"
+    },
+    {
+      "name": "jacquard-duvet-cases_ALBEDO",
+      "mimeType": "image/png",
+      "uri": "textures/jacquard-duvet-cases_ALBEDO.png"
+    },
+    {
+      "name": "jacquard-duvet-cases_Metallic-jacquard-duvet-cases_ROUGHNESS",
+      "mimeType": "image/png",
+      "uri": "textures/jacquard-duvet-cases_Metallic-jacquard-duvet-cases_ROUGHNESS.png"
+    },
+    {
+      "name": "Comforter_Alt_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter_Alt_Normal.png"
+    },
+    {
+      "name": "Comforter_Alt_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter_Alt_AO.png"
+    },
+    {
+      "name": "Comforter_Alt_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter_Alt_Albedo.png"
+    },
+    {
+      "name": "Comforter_Alt_Metalness-Comforter_Alt_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Comforter_Alt_Metalness-Comforter_Alt_Roughness.png"
+    },
+    {
+      "name": "Jaquard_Duvet_normal",
+      "mimeType": "image/png",
+      "uri": "textures/Jaquard_Duvet_normal.png"
+    },
+    {
+      "name": "Jaquard_Duvet_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Jaquard_Duvet_AO.png"
+    },
+    {
+      "name": "Jaquard_Duvet_albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Jaquard_Duvet_albedo.png"
+    },
+    {
+      "name": "Jaquard_Duvet_roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Jaquard_Duvet_roughness.png"
+    },
+    {
+      "name": "Duvet-Blend_AO_png",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-Blend_AO_png.png"
+    },
+    {
+      "name": "Duvet-100-bamboo_new_Albedo",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-100-bamboo_new_Albedo.png"
+    },
+    {
+      "name": "Duvet-100-bamboo_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-100-bamboo_Roughness.png"
+    },
+    {
+      "name": "Duvet-Blend_Normal",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-Blend_Normal.png"
+    },
+    {
+      "name": "Duvet-Blend_AO",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-Blend_AO.png"
+    },
+    {
+      "name": "Duvet-Blend-Desaturated_Albedo_png",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-Blend-Desaturated_Albedo_png.png"
+    },
+    {
+      "name": "Duvet-Blend_Metalness-Duvet-Blend_Roughness",
+      "mimeType": "image/png",
+      "uri": "textures/Duvet-Blend_Metalness-Duvet-Blend_Roughness.png"
+    }
+  ],
+  "buffers": [
+    {
+      "name": "comforter_mulberry.012",
+      "uri": "comforter_mulberry.012.bin",
+      "byteLength": 232872
+    },
+    {
+      "name": "duvet_zipper.004",
+      "uri": "duvet_zipper.004.bin",
+      "byteLength": 112644
+    },
+    {
+      "name": "duvet.012",
+      "uri": "duvet.012.bin",
+      "byteLength": 199200
+    },
+    {
+      "name": "duvet_pillowcase01",
+      "uri": "duvet_pillowcase01.bin",
+      "byteLength": 38272
+    },
+    {
+      "name": "duvet_pillowcase02",
+      "uri": "duvet_pillowcase02.bin",
+      "byteLength": 38560
+    }
+  ],
+  "materials": [
+    {
+      "name": "comforter-mulberry",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "supreme-duvet",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "jacquard-duvet-cases",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicRoughnessTexture": {
+          "index": 10
+        }
+      },
+      "occlusionTexture": {
+        "index": 9
+      }
+    },
+    {
+      "name": "comforter-alt",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 11
+        },
+        "metallicRoughnessTexture": {
+          "index": 14
+        }
+      },
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 13
+      }
+    },
+    {
+      "name": "jacquard-duvet",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 15
+        },
+        "metallicRoughnessTexture": {
+          "index": 18
+        }
+      },
+      "normalTexture": {
+        "index": 16
+      },
+      "occlusionTexture": {
+        "index": 17
+      }
+    },
+    {
+      "name": "duvet_bamboo_silver",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.40982573843632336,
+          0.4313402138074096,
+          0.42050792616758714,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_oxford",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06381487094867724,
+          0.08690125178766034,
+          0.1061560678127439,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_goldBamboo",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4534564754857306,
+          0.30212549635885283,
+          0.16364067148528988,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7893137424155858,
+          0.7969165429079781,
+          0.7817506777739623,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11926401300504741,
+          0.03423020656508195,
+          0.016067700890886875,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0019634162133964697,
+          0.0016869153167892836,
+          0.0019634162133964697,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4313402138074096,
+          0.4647411349738896,
+          0.4647411349738896,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2549158565663851,
+          0.1572807278900734,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.37867625092984036,
+          0.2631747163984916,
+          0.29321614913237454,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.6120655998656237,
+          0.6387794556508168,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6320426176206414,
+          0.5924380303208466,
+          0.4534564754857306,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4704402453042184,
+          0.4313402138074096,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11392093340633272,
+          0.12752977781342206,
+          0.07176144884623908,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.744530171266715,
+          0.37867625092984036,
+          0.2801243652610849,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.017936433339950233,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5417983559501369,
+          0.5604991522043282,
+          0.5604991522043282,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2801243652610849,
+          0.3203815487918104,
+          0.2388279842720483,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5604991522043282,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4819522370506978,
+          0.39929329990267437,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.2271365255051489,
+          0.01991783843878572,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_bamboo_wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10871114997903854,
+          0.18698850875884424,
+          0.3392233349353267,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0.05000000074505806,
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 20
+      }
+    },
+    {
+      "name": "duvet_blend_white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8993845130465294,
+          0.8993845130465294,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.215764399609395,
+          0.2120443975022877,
+          0.20109572962134564,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_cacao",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05459227728176034,
+          0.013473396940142641,
+          0.007155037004573032,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_charcoal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.001433134589671864,
+          0.001433134589671864,
+          0.001433134589671864,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_fog",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.36360389792055325,
+          0.348864834082879,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_hazelnut",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.49361620131107364,
+          0.3297290329675149,
+          0.20471011883667684,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_lavender",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3837746464879752,
+          0.2715774154383751,
+          0.3066347662031576,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_lilac",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.598941789493296,
+          0.5604991522043282,
+          0.5924380303208466,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_limoncello",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6940805197968822,
+          0.6455552724449345,
+          0.49361620131107364,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_oatmeal",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.40982573843632336,
+          0.37867625092984036,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_oliveStripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.11392093340633272,
+          0.06772458968542432,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_peach",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7011695015314021,
+          0.3586539059261989,
+          0.2631747163984916,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_pinkClay",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10114516420959989,
+          0.016988052089250045,
+          0.020951131914781092,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_pinstripe",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.5295232224172772,
+          0.5295232224172772,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_pistachio",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.267358060183772,
+          0.3157627437363971,
+          0.22331040834112742,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_rosewater",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.505432468828216,
+          0.4704402453042184,
+          0.4590798924241601,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_sage",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4761772653974402,
+          0.5174013674966733,
+          0.4368127538003594,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_terracota",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4590798924241601,
+          0.3297290329675149,
+          0.25084023643640047,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_turmeric",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5113978188848795,
+          0.24680041960155044,
+          0.02201299491933654,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_blend_wildflower",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10363409665513738,
+          0.18014428915439032,
+          0.3250369625210763,
+          0.000005077051900661759
+        ],
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 25
+        }
+      },
+      "normalTexture": {
+        "index": 23
+      },
+      "occlusionTexture": {
+        "index": 24
+      }
+    },
+    {
+      "name": "duvet_supreme_white",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8993845130465294,
+          0.8993845130465294,
+          0.8993845130465294,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "duvet_supreme_gray",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4423229488192018,
+          0.4368127538003594,
+          0.41514809165590655,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "duvet_supreme_pumpkin",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3297290329675149,
+          0.08021925873621505,
+          0.011126082368383245,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    },
+    {
+      "name": "duvet_supreme_goldSupreme",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6455552724449345,
+          0.3066347662031576,
+          0.0370285141619602,
+          0.000005077051900661759
+        ],
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "comforter_mulberry.012",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 0,
+                  "variants": [
+                    47
+                  ]
+                },
+                {
+                  "material": 3,
+                  "variants": [
+                    48
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "duvet_zipper.004",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 7
+        }
+      ]
+    },
+    {
+      "name": "duvet.012",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 11,
+          "extensions": {
+            "KHR_materials_variants": {
+              "mappings": [
+                {
+                  "material": 5,
+                  "variants": [
+                    0
+                  ]
+                },
+                {
+                  "material": 6,
+                  "variants": [
+                    1
+                  ]
+                },
+                {
+                  "material": 7,
+                  "variants": [
+                    2
+                  ]
+                },
+                {
+                  "material": 8,
+                  "variants": [
+                    3
+                  ]
+                },
+                {
+                  "material": 9,
+                  "variants": [
+                    4
+                  ]
+                },
+                {
+                  "material": 10,
+                  "variants": [
+                    5
+                  ]
+                },
+                {
+                  "material": 11,
+                  "variants": [
+                    6
+                  ]
+                },
+                {
+                  "material": 12,
+                  "variants": [
+                    7
+                  ]
+                },
+                {
+                  "material": 13,
+                  "variants": [
+                    8
+                  ]
+                },
+                {
+                  "material": 14,
+                  "variants": [
+                    9
+                  ]
+                },
+                {
+                  "material": 15,
+                  "variants": [
+                    10
+                  ]
+                },
+                {
+                  "material": 16,
+                  "variants": [
+                    11
+                  ]
+                },
+                {
+                  "material": 17,
+                  "variants": [
+                    12
+                  ]
+                },
+                {
+                  "material": 18,
+                  "variants": [
+                    13
+                  ]
+                },
+                {
+                  "material": 19,
+                  "variants": [
+                    14
+                  ]
+                },
+                {
+                  "material": 20,
+                  "variants": [
+                    15
+                  ]
+                },
+                {
+                  "material": 21,
+                  "variants": [
+                    16
+                  ]
+                },
+                {
+                  "material": 22,
+                  "variants": [
+                    17
+                  ]
+                },
+                {
+                  "material": 23,
+                  "variants": [
+                    18
+                  ]
+                },
+                {
+                  "material": 24,
+                  "variants": [
+                    19
+                  ]
+                },
+                {
+                  "material": 25,
+                  "variants": [
+                    20
+                  ]
+                },
+                {
+                  "material": 26,
+                  "variants": [
+                    21
+                  ]
+                },
+                {
+                  "material": 27,
+                  "variants": [
+                    22
+                  ]
+                },
+                {
+                  "material": 28,
+                  "variants": [
+                    23
+                  ]
+                },
+                {
+                  "material": 29,
+                  "variants": [
+                    24
+                  ]
+                },
+                {
+                  "material": 30,
+                  "variants": [
+                    25
+                  ]
+                },
+                {
+                  "material": 31,
+                  "variants": [
+                    26
+                  ]
+                },
+                {
+                  "material": 32,
+                  "variants": [
+                    27
+                  ]
+                },
+                {
+                  "material": 33,
+                  "variants": [
+                    28
+                  ]
+                },
+                {
+                  "material": 34,
+                  "variants": [
+                    29
+                  ]
+                },
+                {
+                  "material": 35,
+                  "variants": [
+                    30
+                  ]
+                },
+                {
+                  "material": 36,
+                  "variants": [
+                    31
+                  ]
+                },
+                {
+                  "material": 37,
+                  "variants": [
+                    32
+                  ]
+                },
+                {
+                  "material": 38,
+                  "variants": [
+                    33
+                  ]
+                },
+                {
+                  "material": 39,
+                  "variants": [
+                    34
+                  ]
+                },
+                {
+                  "material": 40,
+                  "variants": [
+                    35
+                  ]
+                },
+                {
+                  "material": 41,
+                  "variants": [
+                    36
+                  ]
+                },
+                {
+                  "material": 42,
+                  "variants": [
+                    37
+                  ]
+                },
+                {
+                  "material": 43,
+                  "variants": [
+                    38
+                  ]
+                },
+                {
+                  "material": 44,
+                  "variants": [
+                    39
+                  ]
+                },
+                {
+                  "material": 45,
+                  "variants": [
+                    40
+                  ]
+                },
+                {
+                  "material": 46,
+                  "variants": [
+                    41
+                  ]
+                },
+                {
+                  "material": 47,
+                  "variants": [
+                    42
+                  ]
+                },
+                {
+                  "material": 48,
+                  "variants": [
+                    43
+                  ]
+                },
+                {
+                  "material": 49,
+                  "variants": [
+                    44
+                  ]
+                },
+                {
+                  "material": 50,
+                  "variants": [
+                    45
+                  ]
+                },
+                {
+                  "material": 4,
+                  "variants": [
+                    46
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "duvet_pillowcase01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 15
+        }
+      ]
+    },
+    {
+      "name": "duvet_pillowcase02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 19
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "comforter-mulberry",
+      "mesh": 0
+    },
+    {
+      "name": "duvet-zipper",
+      "mesh": 1
+    },
+    {
+      "name": "duvet",
+      "mesh": 2,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "duvet-pillowcase01",
+      "mesh": 3
+    },
+    {
+      "name": "duvet-pillowcase02",
+      "mesh": 4
+    },
+    {
+      "name": "comforter-and-duvet",
+      "children": [
+        0,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        5
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_variants"
+  ],
+  "extensions": {
+    "KHR_materials_variants": {
+      "variants": [
+        {
+          "name": "duvet:bamboo:silver"
+        },
+        {
+          "name": "duvet:bamboo:oxford"
+        },
+        {
+          "name": "duvet:bamboo:goldBamboo"
+        },
+        {
+          "name": "duvet:bamboo:white"
+        },
+        {
+          "name": "duvet:bamboo:cacao"
+        },
+        {
+          "name": "duvet:bamboo:charcoal"
+        },
+        {
+          "name": "duvet:bamboo:fog"
+        },
+        {
+          "name": "duvet:bamboo:hazelnut"
+        },
+        {
+          "name": "duvet:bamboo:lavender"
+        },
+        {
+          "name": "duvet:bamboo:lilac"
+        },
+        {
+          "name": "duvet:bamboo:limoncello"
+        },
+        {
+          "name": "duvet:bamboo:oatmeal"
+        },
+        {
+          "name": "duvet:bamboo:oliveStripe"
+        },
+        {
+          "name": "duvet:bamboo:peach"
+        },
+        {
+          "name": "duvet:bamboo:pinkClay"
+        },
+        {
+          "name": "duvet:bamboo:pinstripe"
+        },
+        {
+          "name": "duvet:bamboo:pistachio"
+        },
+        {
+          "name": "duvet:bamboo:rosewater"
+        },
+        {
+          "name": "duvet:bamboo:sage"
+        },
+        {
+          "name": "duvet:bamboo:terracota"
+        },
+        {
+          "name": "duvet:bamboo:turmeric"
+        },
+        {
+          "name": "duvet:bamboo:wildflower"
+        },
+        {
+          "name": "duvet:blend:white"
+        },
+        {
+          "name": "duvet:blend:gray"
+        },
+        {
+          "name": "duvet:blend:cacao"
+        },
+        {
+          "name": "duvet:blend:charcoal"
+        },
+        {
+          "name": "duvet:blend:fog"
+        },
+        {
+          "name": "duvet:blend:hazelnut"
+        },
+        {
+          "name": "duvet:blend:lavender"
+        },
+        {
+          "name": "duvet:blend:lilac"
+        },
+        {
+          "name": "duvet:blend:limoncello"
+        },
+        {
+          "name": "duvet:blend:oatmeal"
+        },
+        {
+          "name": "duvet:blend:oliveStripe"
+        },
+        {
+          "name": "duvet:blend:peach"
+        },
+        {
+          "name": "duvet:blend:pinkClay"
+        },
+        {
+          "name": "duvet:blend:pinstripe"
+        },
+        {
+          "name": "duvet:blend:pistachio"
+        },
+        {
+          "name": "duvet:blend:rosewater"
+        },
+        {
+          "name": "duvet:blend:sage"
+        },
+        {
+          "name": "duvet:blend:terracota"
+        },
+        {
+          "name": "duvet:blend:turmeric"
+        },
+        {
+          "name": "duvet:blend:wildflower"
+        },
+        {
+          "name": "duvet:supreme:white"
+        },
+        {
+          "name": "duvet:supreme:gray"
+        },
+        {
+          "name": "duvet:supreme:pumpkin"
+        },
+        {
+          "name": "duvet:supreme:goldSupreme"
+        },
+        {
+          "name": "duvet:jacquard"
+        },
+        {
+          "name": "comforter:comforter-mulberry"
+        },
+        {
+          "name": "comforter:comforter-alt"
+        }
+      ]
+    }
+  }
+}
